@@ -1,5 +1,3 @@
-package com.fan16.cn.widget;
-
 import android.content.Context;
 import android.text.Editable;
 import android.text.Spannable;
